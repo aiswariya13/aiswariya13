@@ -1,6 +1,6 @@
-# Hey there! I’m Aiswariya👋<br>                                            ![Coding Girl GIF](https://giffiles.alphacoders.com/171/171277.gif)  
+<h1 style="text-align: center;">Hey there! I’m Aiswariya👋</h1> <br><br><br><br>                                            ![Coding Girl GIF](https://giffiles.alphacoders.com/171/171277.gif)  
 
-☕Code runs on logic; I run on coffee.💻 
+<br><br>☕Code runs on logic; I run on coffee.💻 
 🎈 I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
 
 #### Ctrl + Alt + Slay—it’s my kind of vibe.(T_T)
@@ -57,15 +57,3 @@
 
 
 
-- 👋 Hi, I’m @aiswariya13
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-aiswariya13/aiswariya13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
