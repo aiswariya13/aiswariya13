@@ -1,4 +1,4 @@
-Hey there! I’m Aiswariya👋                                            ![Coding Girl GIF](https://giffiles.alphacoders.com/171/171277.gif)  
+# Hey there! I’m Aiswariya👋<br>                                            ![Coding Girl GIF](https://giffiles.alphacoders.com/171/171277.gif)  
 
 ☕Code runs on logic; I run on coffee.💻 
 🎈 I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
