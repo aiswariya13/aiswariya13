@@ -9,7 +9,14 @@
 
 ---
 
-## 🚀 Connect with me  
+## 🚀Let's Connect
+<p align="center">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aiswariyadas/)  " width="50"/>
+  <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/aiswariya137)" width="50"/>
+  <img src="URL_TO_LOGO_3.png" width="50"/>
+  <img src="URL_TO_LOGO_4.png" width="50"/>
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aiswariyadas/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://x.com/aiswariya137)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:aiswariya1373@gmail.com)  
