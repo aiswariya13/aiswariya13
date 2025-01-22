@@ -48,7 +48,7 @@
 
 ---
 
-> # Keep solving, keep sipping, and keep slaying the code! 🚀💻☕
+> # Keep solving, keep sipping, and keep slaying the code!☕💻
 
 
 
