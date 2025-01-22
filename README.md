@@ -1,9 +1,9 @@
-<h1 style="text-align: center;">Hey there! I’m Aiswariya👋</h1> <br><br><br><br>                                            ![Coding Girl GIF](https://giffiles.alphacoders.com/171/171277.gif)  
+# Hey there! I’m Aiswariya👋 <br><br><br><br>                                            ![Coding Girl GIF](https://giffiles.alphacoders.com/171/171277.gif)  
 
 <br><br>☕Code runs on logic; I run on coffee.💻 
-🎈 I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
+<br>🎈I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
 
-#### Ctrl + Alt + Slay—it’s my kind of vibe.(T_T)
+## Ctrl + Alt + Slay—it’s my kind of vibe. (T_T)
 
 
 
@@ -29,7 +29,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PyPI - Versions from Framework Classifiers](https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -45,7 +44,7 @@
 
 ---
 
-> Keep solving, keep sipping, and keep slaying the code! 🚀💻☕
+> # Keep solving, keep sipping, and keep slaying the code! 🚀💻☕
 
 
 
