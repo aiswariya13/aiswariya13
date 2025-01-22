@@ -1,4 +1,4 @@
-# Hey there! I’m Aiswariya👋 <br><br><br><br>                                        <p align="center"><img src="https://giffiles.alphacoders.com/171/171277.gif" width="50" height="auto"/></p>   
+# Hey there! I’m Aiswariya👋 <br><br><br><br>                                        <p align="center"><img src="https://giffiles.alphacoders.com/171/171277.gif" width="900" height="auto"/></p>   
 
 <br><br>☕Code runs on logic; I run on coffee.💻 
 <br>🎈I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
