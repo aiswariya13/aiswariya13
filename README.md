@@ -1,16 +1,20 @@
 # Huiiiii!✌️ Aiswariya this side 🙋🏽‍♀️ <br><br>                                        <p align="center"><img src="https://giffiles.alphacoders.com/171/171277.gif" width="8000" height="350"/></p>   
 
-<br><br>☕Code runs on logic; I run on coffee.💻<br><br>
+<br><br> 
+
+☕Code runs on logic; I run on coffee.💻<br><br>
 🎈I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
 
 ## Ctrl + Alt + Slay—it’s my kind of vibe. (T_T)
 
 
-
-
 ## 🚀 Let's Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aiswariya137/)
+
+
+---
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswariyadas/)
 [![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aiswariya137)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
