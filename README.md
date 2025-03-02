@@ -4,23 +4,16 @@
 🎈I’m a coder who turns caffeine into code, solves problems like puzzles, and leads with determination. Whether it’s debugging errors or building dreams, I’m always up for the challenge.
 
 ## Ctrl + Alt + Slay—it’s my kind of vibe. (T_T)
-
-
 ## 🚀 Let's Connect
-
-
-
 ---
+### Connect With Me  
+<div>
+  <a href="https://www.linkedin.com/in/aiswariyadas/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://github.com/aiswariya13"><img src="https://skillicons.dev/icons?i=github"></a>
+  <a href="mailto:aiswariya1373@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://x.com/aiswariya137"><img src="https://skillicons.dev/icons?i=twitter"></a>
+</div>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiswariyadas/)
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aiswariya137)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiswariya1373@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/aiswariya13)
-
-
----
 
 ## 💻 Skills
 
@@ -39,9 +32,6 @@
   <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=blue" height="40">
 </div>
-
----
-
 
 ---
 
